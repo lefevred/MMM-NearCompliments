@@ -5,7 +5,7 @@
   "main": "MMM-NearCompliments.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/semox/MMM-NearCompliments.git"
+    "url": "git+https://github.com/lefevred/MMM-NearCompliments.git"
   },
   "keywords": [
     "Magic Mirror",
@@ -15,9 +15,9 @@
   "author": "Sebastian Kirschner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/semox/MMM-NearCompliments/issues"
+    "url": "https://github.com/lefevred/MMM-NearCompliments/issues"
   },
-  "homepage": "https://github.com/semox/MMM-NearCompliments#readme",
+  "homepage": "https://github.com/lefevred/MMM-NearCompliments#readme",
   "scripts": {
     "postinstall": "node_modules/.bin/electron-rebuild -e ../../node_modules/electron"
   },
